@@ -1,0 +1,7 @@
+  - reac-dom e o contrato de react-native
+
+  - pasta src fica arquivos que vamos criar, principalmente o codigo JS
+
+  - pasta public fica os arquivos publicos (assets) (index.html favicon.ico ; robots.txt)
+
+  - o Babel vai garantir que o browser entenda tudo o que ha de novo no JS
